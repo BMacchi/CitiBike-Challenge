@@ -49,4 +49,30 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 Ensure your presentation is professional, logical, and visually appealing.
 
 _____________________________________________________
+**Finished Dashboard and Story Screenshots:**
+
+This story is a visual representation of Citi Bike rider and station activity for the month of January 2022. Some of  data seen below includes: rider activity for casual vs members, most popular days/times to use a bike, and trip duration and distance. Continue on to get a closer look at each as well as visualizations showing which bike stations are the most popular. 
+
 <img width="1407" alt="Screenshot 2023-10-13 at 7 45 45 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/193b0fb5-a7c8-41e6-aba5-86cb9a003d2f">
+
+This barchart shows most popular ride times with spikes seen around 8-9am as well as 3-6pm. Perhaps riders are using the bikes to get to and from their place of work as well as to and from dinner?
+
+<img width="1356" alt="Screenshot 2023-10-13 at 7 52 21 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/a659995d-0b99-4021-8f8c-721ba7c3ae9c">
+
+Classic bikes were used more than electric during the month. 
+
+<img width="1324" alt="Screenshot 2023-10-13 at 7 52 55 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/5dec3523-24f1-4435-a057-c87d9763f056">
+
+You can see below that members far outweigh casual riders in total trips taken. However, casual riders on average rode longer than members. Perhaps this is an inducation that casual riders used their bikes recreationally where as members used them to commute from point A to B?  Average distance traveled for both rider types was similar.  
+
+<img width="1405" alt="Screenshot 2023-10-13 at 7 53 28 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/d88397be-2d07-43bd-99f1-e82caa44b451">
+
+This shows the top 20 most widely used stations to start a ride. Every ride started at a station which tells me bikes were redistributed frequently/daily.
+
+<img width="1393" alt="Screenshot 2023-10-13 at 7 54 04 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/89ad0ac1-6fec-47a1-af2e-7a7f4cd2273f">
+
+This shows the top 20 most widely used stations to end a ride. 
+
+***There were roughly 9,000 rides that did not end at a defined station, but at random latitude/longitude coordinates around the city. For map cleanliness, they were filtered out***
+
+<img width="1386" alt="Screenshot 2023-10-13 at 7 54 36 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/e3b0ad28-9651-4905-97d6-90e01fe025fa">
