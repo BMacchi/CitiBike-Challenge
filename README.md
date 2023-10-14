@@ -42,11 +42,11 @@ Create one of the following visualizations for city officials:
 
 The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 _____________________________________________________
-
 **Create your final presentation:**
 
 Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 Ensure your presentation is professional, logical, and visually appealing.
 
-
+_____________________________________________________
+<img width="1407" alt="Screenshot 2023-10-13 at 7 45 45 PM" src="https://github.com/BMacchi/Tableau---CitiBike_Project/assets/128737150/193b0fb5-a7c8-41e6-aba5-86cb9a003d2f">
