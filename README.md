@@ -51,7 +51,7 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 Ensure your presentation is professional, logical, and visually appealing.
 
 _____________________________________________________
-**Finished Dashboard and Story Screenshots:**
+**Screenshots of Completed Dashboards and Story:**
 
 This story is a visual representation of Citi Bike rider and station activity for the month of January 2022. Some of  data seen below includes: rider activity for casual vs members, most popular days/times to use a bike, and trip duration and distance. Continue on to get a closer look at each as well as visualizations showing which bike stations are the most popular. 
 
